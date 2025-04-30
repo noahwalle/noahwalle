@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @noahwalle
-- 👀 I like embedded systems and robotics.
-- 🌱 I’m studying Mechatronics Engineering at the University of Canterbury.
-- 📫 You can reach me via my email noah.walle@gmail.com
+👋
